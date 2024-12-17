@@ -1,0 +1,47 @@
+{
+  "common": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "loading": "Cargando...",
+    "instructor": "Monitor",
+    "user": "Usuario",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "error": "Error"
+  },
+  "events": {
+    "title": "Entrenamientos",
+    "create": "Crear Entrenamiento",
+    "location": "Ubicación",
+    "date": "Fecha",
+    "price": "Precio",
+    "free": "Gratis",
+    "participants": "Participantes",
+    "difficulty": "Dificultad",
+    "requirements": "Requisitos",
+    "register": "Inscribirse al Entrenamiento",
+    "noEvents": "No se encontraron entrenamientos",
+    "details": "Ver detalles",
+    "nearMe": "Cerca de mí",
+    "distance": "Distancia",
+    "selectLocation": "Seleccionar ubicación",
+    "locationSelected": "Ubicación seleccionada",
+    "useMyLocation": "Usar mi ubicación"
+  },
+  "profile": {
+    "title": "Perfil",
+    "edit": "Editar Perfil",
+    "events": {
+      "registered": "Entrenamientos Inscritos",
+      "created": "Entrenamientos Creados",
+      "create": "Crear Entrenamiento"
+    },
+    "ratings": "Calificaciones",
+    "certifications": "Certificaciones",
+    "messages": "Mensajes",
+    "preferences": "Preferencias"
+  }
+}

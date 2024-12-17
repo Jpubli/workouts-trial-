@@ -1,0 +1,40 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "instructor": "Instructor",
+    "user": "User",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "events": {
+    "title": "Workouts",
+    "create": "Create Workout",
+    "location": "Location",
+    "date": "Date",
+    "price": "Price",
+    "free": "Free",
+    "participants": "Participants",
+    "difficulty": "Difficulty",
+    "requirements": "Requirements",
+    "register": "Join Workout",
+    "noEvents": "No workouts found"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "events": {
+      "registered": "Registered Workouts",
+      "created": "Created Workouts",
+      "create": "Create Workout"
+    },
+    "ratings": "Ratings",
+    "certifications": "Certifications",
+    "messages": "Messages",
+    "preferences": "Preferences"
+  }
+}
